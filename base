@@ -1,0 +1,21 @@
+/**
+ * @name Wonder1rks
+ * @author 2devvy
+ * @version 1.0.0
+ * @description Nice custom theme!
+ * @source https://github.com/DiscordStyles/DarkMatter/
+*/
+
+@import url('https://github.com/WONDERBLOX/Wonder1rksWonderBloxTheme/blob/main/Wonder1rks.theme.css');
+
+/* Variables */
+:root {
+   --avatar-size: 32px;
+	--background-image: url('https://imgur.com/a/ZqaPnf3');
+	--home-image: url('https://yt3.ggpht.com/A8PKvOnBdwHFzsOv4Max4rhV95ob6OO5E3wfiMBbfCacXZ_o1EJnoMgvQO2d-w78noGOPY1t=s108-c-k-c0x00ffffff-no-rj');
+	--background-solid: #161921;
+	--background-solid-dark: #101218;
+	--background-solid-darker: #0c0e12;
+	--accent: 37, 172, 232;
+	--accent-alt: 29, 101, 134;
+}
